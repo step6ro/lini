@@ -1,0 +1,2 @@
+# lini
+A Discord Bot
